@@ -1,0 +1,149 @@
+.top-container {
+  background-color: #87A2FB;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #EEEEEE;
+}
+
+.bottom-container {
+  background-color: #ADDDD0;
+  padding: 30px 0 20px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+}
+a{
+font-family: 'Kdam Thmor Pro', sans-serif;
+margin: 10px 20px;
+text-decoration: none;
+}
+a:hover{
+  color: #FFFBEB
+}
+
+p {
+  line-height: 2;
+}
+.copy{
+  font-size: 0.75em;
+  padding: 20px 0;
+}
+
+hr {
+  border: 0;
+  height: 55px;
+  background-image: url('http://www.formget.com/wp-content/uploads/2014/12/type_3.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.op {
+  height: 20%;
+  width: 15%;
+  margin-top: 25px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill {
+  width: 30%;
+  margin-left: 250px;
+  margin-bottom: 30px;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 70px;
+  line-height: 2;
+  font-weight: bold;
+  color: #8758FF
+}
+
+h2 {
+  font-family: 'Lobster', cursive;
+}
+
+h3 {
+  font-family: 'Lobster', cursive;
+}
+
+.photu {
+  height: 15%;
+  width: 30%;
+}
+
+.cloud1 {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.cloud2 {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.first {
+  width: 15%;
+  float: left;
+}
+
+.second {
+  width: 15%;
+  float: right;
+}
+
+.btn {
+  margin: 10px auto 10px auto;
+}
+
+.btn {
+  background: #34d9b2;
+  background-image: -webkit-linear-gradient(top, #34d9b2, #2b89c4);
+  background-image: -moz-linear-gradient(top, #34d9b2, #2b89c4);
+  background-image: -ms-linear-gradient(top, #34d9b2, #2b89c4);
+  background-image: -o-linear-gradient(top, #34d9b2, #2b89c4);
+  background-image: linear-gradient(to bottom, #34d9b2, #2b89c4);
+  -webkit-border-radius: 28;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #fff2ff;
+  -webkit-box-shadow: 0px 1px 3px #000000;
+  -moz-box-shadow: 0px 1px 3px #000000;
+  box-shadow: 0px 1px 3px #000000;
+
+  color: #ffffff;
+  font-size: 18px;
+  padding: 2px 3px 2px 3px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #14a8a3;
+  background-image: -webkit-linear-gradient(top, #14a8a3, #25e692);
+  background-image: -moz-linear-gradient(top, #14a8a3, #25e692);
+  background-image: -ms-linear-gradient(top, #14a8a3, #25e692);
+  background-image: -o-linear-gradient(top, #14a8a3, #25e692);
+  background-image: linear-gradient(to bottom, #14a8a3, #25e692);
+  text-decoration: none;
+}
+
+
+.contact-me{
+padding: 70px 0 70px 0;
+
+}
